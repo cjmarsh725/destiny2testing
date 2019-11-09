@@ -1,4 +1,5 @@
 .app {
+  display: flex;
   text-align: center;
   color: #dddddd;
   background-color: #333333;
